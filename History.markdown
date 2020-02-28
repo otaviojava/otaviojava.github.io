@@ -1,5 +1,3 @@
-## History
-
 ### Java Champion
 
   * [https://community.oracle.com/community/groundbreakers/java/java-champions](https://community.oracle.com/community/groundbreakers/java/java-champions)
@@ -12,7 +10,6 @@
 ### TDC Rockstar
 
   * [https://thedevconf.com/rockstar/OtavioSantana](https://thedevconf.com/rockstar/OtavioSantana)
-
 
 ### JCP Award
 
