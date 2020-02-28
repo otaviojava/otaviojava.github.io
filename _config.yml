@@ -1,6 +1,6 @@
-title: Otavio Santana's blog
-author: Otavio Santana
-  name: otaviojava
+title: Your awesome title
+author:
+  name: GitHub User
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: otaviojava
-    github:  otaviojava
+    twitter: jekyllrb
+    github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
